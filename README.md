@@ -1,4 +1,4 @@
-# DRDO Weapon Tracking Application
+# Real Time Target Detection 
 
 <img width="858" alt="drdo1" src="https://github.com/user-attachments/assets/fb4fd01f-8082-4943-abbd-da727bcb62a3">
 
